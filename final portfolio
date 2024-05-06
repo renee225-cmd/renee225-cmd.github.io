@@ -24,6 +24,7 @@
         <center>
 </center>
 
+Our program is a dance game with a twist. The point of the game is to avoid the other dancers in the game to avoid losing. In the game you will see a dance floor that is lit up and changing colors. You will then see two other dancers that are randomly switching positions on the dance floor. In the game the user that is playing is the main bitmoji which is bigger than the other dancers, you can control where the bitmoji is going using your mouse, move your bitmoji around while avoiding touching the other dancers. Be careful though because the dancers are moving in random directions at all times. If you touch a dancer the game will end and you will have to start over.
 
 
 </body>
